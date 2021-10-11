@@ -7,7 +7,7 @@ int main()
     cout<<"Enter the number of process : ";
     cin>>n;
     int AT[n],BT[n],WT[n],TAT[n];
-    float stat,swt,atat,awt;
+    float stat=0,swt=0,atat=0,awt=0;
     /*cout<<"Enter Arrival time respectively : ";
     for(int i=0;i<n;i++)
         cin>>AT[i];*/
